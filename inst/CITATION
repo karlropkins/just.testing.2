@@ -1,0 +1,19 @@
+citHeader("To cite 'just.testing' package in publications use:")
+
+citEntry(entry="Manual",
+         title = "just.testing: Created to Test R Code Packaging Methods",
+         author = personList(as.person("Karl Ropkins"),
+                             as.person("Umoh Edemeka")),
+         year = "2018",
+         note = paste("R package version ",
+                    packageDescription("just.testing",
+                                 fields = c("Version"))[1], sep=""),
+         textVersion = paste("Karl Ropkins and Umoh Edemeka (2018) ",
+                    "just.testing: Created to Test R Code Packaging Methods, ",
+                    "R package version ",
+                    packageDescription("just.testing",
+                         fields = c("Version"))[1],".", sep=""))
+
+citFooter("Please cite both 'just.testing' and R ",
+          "when using 'just.testing'.",
+          "For R citation, see ", sQuote("citation()"))

@@ -1,0 +1,14 @@
+Package: just.testing
+Title: Created to Test R Code Packaging Methods
+Version: 0.0.0.9000
+Authors@R: c(person("Karl", "Ropkins", email = "my.email@email.com", 
+    role = c("aut", "cre")), person("Umoh", "Edemeka", role = c("ctb"))) 
+Description: The just.testing package was created to test and 
+   demonstrate different options when building R packages. It 
+   is meant to be used only as an example package.
+Depends: R (>= 3.4.1)
+License: GLP-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Imports: XML
