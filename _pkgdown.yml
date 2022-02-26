@@ -3,10 +3,9 @@ template:
   bootswatch: lux
 
 reference:
-- title: "Connecting to Spark"
+- title: "testing"
   desc: >
-    Functions for installing Spark components and managing
-    connections to Spark
+    Functions to do stuff
   contents:
   - example.data
   - footnote.cite
