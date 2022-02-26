@@ -1,0 +1,8 @@
+template:
+  bootstrap: 5
+
+home:
+  structure:
+    left:  [intro, reference]
+    right: [search, github]
+
