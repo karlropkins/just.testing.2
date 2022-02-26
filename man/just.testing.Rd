@@ -3,7 +3,6 @@
 \docType{package}
 \name{just.testing}
 \alias{just.testing}
-\alias{just.testing-package}
 \title{just.testing: Created to Test R Code Packaging Methods}
 \description{
 The just.testing package was created to test and 
