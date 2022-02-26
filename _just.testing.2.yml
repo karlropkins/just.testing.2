@@ -2,8 +2,6 @@ url: karlropkins.github.io/just.testing.2
 
 template:
   bootstrap: 5
-  bootswatch: flatly
-
-reference:
-  title: hello
-  - just.testing
+  bootswatch: lux
+  bslib:
+    pkgdown-nav-height: 100px
