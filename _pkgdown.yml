@@ -5,7 +5,7 @@ navbar:
   type: inverse
   left:
     - icon: fa-home
-      href: references/index.html
+      href: reference/index.html
     - text: "faq"
       icon: fa-question-circle-o
       href: articles/faq.html
