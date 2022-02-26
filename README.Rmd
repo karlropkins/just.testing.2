@@ -21,7 +21,7 @@ knitr::opts_chunk$set(
 
 just.testing again..
 
-new 2...
+new 3...
 
 ## Installation
 
