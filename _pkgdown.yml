@@ -1,8 +1,11 @@
 template:
   bootstrap: 5
 
-home:
+navbar:
   structure:
-    left:  [intro, reference]
-    right: [search, github]
+    left:  [intro, reference, articles, tutorials]
+    right: [search, news]
 
+home:
+  sidebar:
+    structure: [links, license, community, citation, dev]

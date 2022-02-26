@@ -6,3 +6,4 @@
 ^docs$
 ^pkgdown$
 ^_just\.testing\.2\.yml$
+^\.github$
