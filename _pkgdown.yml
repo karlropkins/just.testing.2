@@ -10,9 +10,8 @@ reference:
   - example.data
   - footnote.cite
   - getFlightDistance
-  - just.testing
 - title: "Reading and Writing Data"
-  desc: "Functions for reading and writing Spark DataFrames."
+  desc: "Functions."
   contents:
-  - starts_with("example.data")
-  - matches("saveload")
+  - just.testing
+
