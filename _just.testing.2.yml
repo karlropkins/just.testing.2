@@ -5,3 +5,4 @@ template:
   bootswatch: flaty
   bslib:
     pkgdown-nav-height: 100px
+
