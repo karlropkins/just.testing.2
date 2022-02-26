@@ -8,6 +8,8 @@
 
 The goal of just.testing is to …
 
+hello
+
 ## Installation
 
 You can install the released version of just.testing from
