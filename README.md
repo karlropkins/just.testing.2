@@ -4,13 +4,9 @@
 # just.testing
 
 <!-- badges: start -->
-
-[![R-CMD-check](https://github.com/karlropkins/just.testing.2/workflows/R-CMD-check/badge.svg)](https://github.com/karlropkins/just.testing.2/actions)
 <!-- badges: end -->
 
-just.testing again..
-
-new 3…
+The goal of just.testing is to …
 
 ## Installation
 
@@ -18,7 +14,7 @@ You can install the released version of just.testing from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-#install.packages("just.testing")
+install.packages("just.testing")
 ```
 
 And the development version from [GitHub](https://github.com/) with:
