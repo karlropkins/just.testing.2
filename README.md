@@ -4,8 +4,6 @@
 # just.testing
 
 <!-- badges: start -->
-
-[![R-CMD-check](https://github.com/karlropkins/just.testing.2/workflows/R-CMD-check/badge.svg)](https://github.com/karlropkins/just.testing.2/actions)
 <!-- badges: end -->
 
 The goal of just.testing is to …
@@ -31,7 +29,7 @@ devtools::install_github("karlropkins/just.testing.2")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-#library(just.testing)
+library(just.testing)
 ## basic example code
 ```
 
