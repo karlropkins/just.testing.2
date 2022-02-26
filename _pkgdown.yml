@@ -1,0 +1,10 @@
+
+navbar:
+  type: inverse
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "faq"
+      icon: fa-question-circle-o
+      href: articles/faq.html
+
