@@ -4,6 +4,8 @@
 # just.testing
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/karlropkins/just.testing.2/workflows/R-CMD-check/badge.svg)](https://github.com/karlropkins/just.testing.2/actions)
 <!-- badges: end -->
 
 The goal of just.testing is to …
