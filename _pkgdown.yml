@@ -1,0 +1,19 @@
+template:
+  bootstrap: 5
+  bootswatch: lux
+
+reference:
+- title: "Connecting to Spark"
+  desc: >
+    Functions for installing Spark components and managing
+    connections to Spark
+  contents:
+  - example.data
+  - footnote.cite
+  - getFlightDistance
+  - just.testing
+- title: "Reading and Writing Data"
+  desc: "Functions for reading and writing Spark DataFrames."
+  contents:
+  - starts_with("example.data")
+  - matches("saveload")
