@@ -1,8 +1,8 @@
 ---
-title: "type"
+title: "testing"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{my-vignette}
+  %\VignetteIndexEntry{testing}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -15,7 +15,5 @@ knitr::opts_chunk$set(
 ```
 
 ```{r setup}
-#library(just.testing)
+library(just.testing)
 ```
-
-this is something else... 
