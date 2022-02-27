@@ -12,7 +12,7 @@ The goal of just.testing is just testing stuff…
 
 Today playing at tidying…
 
-INDEX in pkgdown
+INDEX in pkgdown and this is new
 
 ## Installation
 
