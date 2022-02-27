@@ -10,5 +10,5 @@ navbar:
       icon: fa-question-circle-o
       href: articles/faq.html
     - text: "articles"
-      href: articles/faq.html
+      href: articles/index.html
 
