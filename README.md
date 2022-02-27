@@ -12,7 +12,8 @@
 
 The goal of just.testing is just testing stuff…
 
-Today playing at tidying…
+This is the developers archive readme; projects pages are here:
+<https://karlropkins.github.io/just.testing.2>.
 
 ## Installation
 
