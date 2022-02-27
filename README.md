@@ -10,13 +10,11 @@
 [![R-CMD-check](https://github.com/karlropkins/just.testing.2/workflows/R-CMD-check/badge.svg)](https://github.com/karlropkins/just.testing.2/actions)
 <!-- badges: end -->
 
-The goal of just.testing is to …
-
-hello
+The goal of just.testing is just testing stuff…
 
 ## Installation
 
-You can install the released version of just.testing from
+You really can’t install the released version of just.testing from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
