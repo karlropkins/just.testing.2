@@ -7,3 +7,5 @@
 ^pkgdown$
 ^_just\.testing\.2\.yml$
 ^\.github$
+^doc$
+^Meta$
