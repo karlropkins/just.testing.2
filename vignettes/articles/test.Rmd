@@ -1,8 +1,8 @@
 ---
-title: "my-test"
+title: "test"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{test}
+  %\VignetteIndexEntry{articles/test}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
@@ -18,9 +18,4 @@ knitr::opts_chunk$set(
 #library(just.testing)
 ```
 
-Bit naff x 2...
-
-
-```{r pressure, echo = FALSE}
-plot(pressure)
-```
+weird...
