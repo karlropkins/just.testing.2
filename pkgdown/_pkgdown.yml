@@ -8,7 +8,7 @@ navbar:
       href: reference/index.html
     - text: "faq"
       icon: fa-question-circle-o
-      href: articles/faq.html
+      href: articles/test.html
     - text: "articles"
       href: articles/index.html
 
