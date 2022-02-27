@@ -1,0 +1,26 @@
+---
+title: "my-test"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{test}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+#library(just.testing)
+```
+
+Bit naff x 2...
+
+
+```{r pressure, echo = FALSE}
+plot(pressure)
+```
