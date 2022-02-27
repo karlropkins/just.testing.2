@@ -1,7 +1,7 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- INDEX.md is generated from INDEX.Rmd. Please edit that file -->
 
-# pkgdown <img src="man/figures/logo.png" align="right" alt="" width="120" />
+# pkgdown <img src="favicon/favicon.ico" align="right" alt="" width="120" />
 
 # just.testing
 
@@ -13,6 +13,8 @@
 The goal of just.testing is just testing stuff…
 
 Today playing at tidying…
+
+INDEX in pkgdown
 
 ## Installation
 

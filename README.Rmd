@@ -23,6 +23,8 @@ knitr::opts_chunk$set(
 
 The goal of just.testing is just testing stuff...
 
+Today playing at tidying...
+
 ## Installation
 
 You really can't install the released version of just.testing from [CRAN](https://CRAN.R-project.org) with:
