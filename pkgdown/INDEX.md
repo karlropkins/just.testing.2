@@ -1,7 +1,7 @@
 
 <!-- INDEX.md is generated from INDEX.Rmd. Please edit that file -->
 
-# pkgdown <img src="favicon/favicon.ico" align="right" alt="" width="120" />
+# pkgdown <img src="man/figures/favicon.ico" align="right" alt="" width="120" />
 
 # just.testing
 
