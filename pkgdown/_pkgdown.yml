@@ -3,12 +3,8 @@ template:
 
 navbar:
   type: inverse
-  left:
-    - text: "functions"
-      href: reference/index.html
-    - text: "articles"
-      icon: fa-question-circle-o
-      href: articles/index.html
 
-
+home:
+  sidebar:
+    structure: [links, license, community, citation, authors, dev]
 
