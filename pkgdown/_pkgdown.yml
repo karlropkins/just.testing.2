@@ -3,6 +3,21 @@ template:
 
 navbar:
   type: inverse
+  structure:
+    left:  [intro, reference, tutorials, news, custom]
+    right: [search, github]
+    custom:
+      title: Articles
+      menu:
+      - text: Category A
+      - text: Title A1
+        href: articles/test.html
+      - text: Title A2
+        href: articles/index.html
+      - text: -------
+      - text: "Category B"
+      - text: Article B1
+        href: articles/test.html
 
 home:
   sidebar:
