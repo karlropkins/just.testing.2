@@ -4,10 +4,11 @@ template:
 navbar:
   type: inverse
   structure:
-    left:  [intro, reference, tutorials, news, custom]
+    left:  [intro, reference, news, articles]
     right: [search, github]
-    custom:
-      title: Articles
+  components:
+    articles:
+      text: "Articles"
       menu:
       - text: Category A
       - text: Title A1
