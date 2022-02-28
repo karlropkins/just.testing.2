@@ -4,12 +4,11 @@ template:
 navbar:
   type: inverse
   left:
-    - icon: fa-home
+    - text: "functions"
       href: reference/index.html
-    - text: "faq"
-      icon: fa-question-circle-o
-      href: articles/test.html
     - text: "articles"
+      icon: fa-question-circle-o
       href: articles/index.html
+
 
 
