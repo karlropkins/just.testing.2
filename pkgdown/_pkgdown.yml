@@ -18,7 +18,7 @@ navbar:
       - text: -------
       - text: "Category B"
       - text: Article B1
-        href: articles/test.html
+        href: articles/test2pdf.pdf
 
 home:
   sidebar:
