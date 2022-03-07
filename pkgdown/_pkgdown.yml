@@ -21,6 +21,7 @@ navbar:
         href: articles/test2pdf.pdf
 
 home:
+  title: just testing
   sidebar:
     structure: [links, license, community, citation, authors, dev]
 
