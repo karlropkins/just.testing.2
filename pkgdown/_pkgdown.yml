@@ -8,7 +8,7 @@ template:
 navbar:
   type: inverse
   structure:
-    left:  [intro, reference, news, articles]
+    left:  [intro, reference, articles, downloads, news]
     right: [search, github]
   components:
     articles:
@@ -23,6 +23,18 @@ navbar:
       - text: "Category B"
       - text: Article B1
         href: articles/test2pdf.pdf
+  components:
+    downloads:
+      text: "Downloads"
+      menu:
+      - text: Category A
+      - text: Title A1
+        href: download/test.html
+      - text: -------
+      - text: "Category B"
+      - text: Article B1
+        href: download/test2pdf.pdf
+
 
 home:
   title: just testing
