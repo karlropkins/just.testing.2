@@ -33,7 +33,19 @@ navbar:
       - text: "Category B"
       - text: Article B1
         href: download/test2pdf.pdf
-
+    news:
+      text: "News"
+      menu:
+      - text: "About"
+      - text: Title A1
+        href: download/test.html
+      - text: -------
+      - text: "Category B"
+      - text: Article B1
+        href: download/test2pdf.pdf
+      - text: -------
+      - text: "Change log"
+        href: news/index.hml
 
 home:
   title: just testing
