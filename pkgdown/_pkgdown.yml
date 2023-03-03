@@ -8,7 +8,7 @@ template:
 navbar:
   type: inverse
   structure:
-    left:  [intro, reference, articles, download, about]
+    left:  [intro, reference, articles, download, about, test]
     right: [search, github]
   components:
     articles:
@@ -42,16 +42,16 @@ navbar:
       - text: -------
       - text: "change log"
         href: news/index.html
+    test:
+      text: "Funding"
+      href: test/nix.html
+
+
 
 
 
 home:
   title: just testing
   sidebar:
-    structure: [links, license, test, community, citation, authors, dev]
-    components:
-      test:
-        title: Funding
-        text: Funding
-        href: test/index.html
+    structure: [links, license, community, citation, authors, dev]
 
