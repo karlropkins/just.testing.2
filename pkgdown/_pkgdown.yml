@@ -37,7 +37,7 @@ navbar:
       text: "About"
       menu:
       - text: Category A
-      - text: Title A1
+      - text: "Funding"
         href: download/test.html
       - text: -------
       - text: "change log"
@@ -48,5 +48,10 @@ navbar:
 home:
   title: just testing
   sidebar:
-    structure: [links, license, community, citation, authors, dev]
+    structure: [links, license, test, community, citation, authors, dev]
+    components:
+      test:
+        title: Funding
+        text: Funding
+        href: test/index.html
 
